@@ -1,3 +1,5 @@
+#الاسم : محمد علي محمد الدسوقي قزامل
+#سكشن 4
 from tkinter import *
 root = Tk()
 root.geometry("500x600")
